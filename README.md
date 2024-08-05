@@ -6,6 +6,9 @@ an application to help keep track of employies by name, department, and job in t
 ## Table of contents
 - [Usage](#usage)
 - [Credits](#credits)
+
+## Video
+- [video demonstration](<RM assets/C-12.mkv>)
     
 
 ## Usage
