@@ -9,6 +9,7 @@ an application to help keep track of employies by name, department, and job in t
 
 ## Video
 - [video demonstration](<RM assets/C-12.mkv>)
+- Video is hosted on github and needs to be downloaded in order to veiw on winows media player
     
 
 ## Usage
